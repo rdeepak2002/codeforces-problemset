@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main() {
+int main_231A() {
     int n;
     cin >> n;
 
