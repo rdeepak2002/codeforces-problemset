@@ -12,7 +12,7 @@ int compare(const void *a, const void *b) {
     return num1 - num2;
 }
 
-int main() {
+int main_158A() {
     int n, k, result = 0;
     cin >> n >> k;
 
